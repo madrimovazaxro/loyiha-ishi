@@ -1,0 +1,1 @@
+print("bugun imtihon bo'masin")
