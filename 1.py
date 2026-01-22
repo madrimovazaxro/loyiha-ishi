@@ -1,1 +1,1 @@
-print("bugun imtihon bo'masin")
+print("man oqiman")
